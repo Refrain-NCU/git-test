@@ -10,5 +10,7 @@ public class test {
 
 
         System.out.println("hot-fix-2");
+        
+        System.out.println("github-fix")
     }
 }
