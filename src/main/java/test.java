@@ -4,5 +4,6 @@ public class test {
         System.out.println("hello Git~~~~~");
         System.out.println("Hi,git~~~~~");
         System.out.println("I like git~~~~~");
+        System.out.println("hot-fix yyds");
     }
 }
